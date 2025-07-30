@@ -1,5 +1,5 @@
 let inp = document.querySelector("input");
-let btn = document.querySelector("button");
+let btn = document.getElementById("addBtn");
 let ul = document.querySelector("ul");
 
 
